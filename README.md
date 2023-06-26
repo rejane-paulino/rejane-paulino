@@ -1,4 +1,4 @@
-[![Braydon's GitHub Banner](./banner.svg)]
+[![Paulino's GitHub Banner](./assets/banner.svg)]
 
 <!--
 **rejane-paulino/rejane-paulino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

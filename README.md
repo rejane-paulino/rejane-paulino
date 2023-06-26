@@ -1,4 +1,4 @@
-![Paulino's GitHub Banner(./assets/banner.svg)
+![Paulino's GitHub Banner](./assets/banner.svg)
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Frejane-paulino%2Frejane-paulino.git&label=visitors&countColor=%23ba68c8&style=flat)
 
 Hey there 👋 

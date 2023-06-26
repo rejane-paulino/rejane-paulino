@@ -1,7 +1,10 @@
 [![Paulino's GitHub Banner](./assets/banner.svg)]
+[![Visits Badge](![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Frejane-paulino%2Frejane-paulino.git&label=visitors&countColor=%23ba68c8&style=flat)
 
-<!--
-**rejane-paulino/rejane-paulino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey there 👋 
+
+I'm Paulino RS, a remote sensing scientist, Phd student in Biosystems Engineering and creative coder. I make it my mission to evaluate and develop new approaches to water quality based on satellite data.
+
 
 Here are some ideas to get you started:
 

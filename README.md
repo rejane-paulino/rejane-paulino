@@ -1,5 +1,4 @@
 ![Paulino's GitHub Banner](./assets/banner.svg)
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Frejane-paulino%2Frejane-paulino.git&label=visitors&countColor=%23ba68c8&style=flat)
 ![Language](https://img.shields.io/badge/Python-black?logo=python)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?logo=linkedin)](https://www.linkedin.com/in/rejane-paulino-170659157/)
 [![Orcid](https://img.shields.io/badge/Orcid-black?logo=orcid)](https://orcid.org/my-orcid?orcid=0000-0002-7295-8942)

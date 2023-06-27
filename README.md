@@ -17,5 +17,14 @@ I'm Paulino RS, a remote sensing scientist, Phd student in Biosystems Engineerin
 * Machine learning.
 
 ### 💼 Skills
+![Python](https://img.shields.io/badge/Tools-Python-black?logo=python)
+![Image](https://img.shields.io/badge/Tools-Image%20Processing-black?logo=simpleanalytics)
+![Radiometric](https://img.shields.io/badge/Tools-Radiometric%20Data-black)
+![Inkscape](https://img.shields.io/badge/Tools-Inkscape-black?logo=inkscape)
+![Gitlab](https://img.shields.io/badge/Tools-Gitlab-black?logo=gitlab)
+![Github](https://img.shields.io/badge/Tools-GitHub-black?logo=github)
+![Office](https://img.shields.io/badge/Tools-Office-black?logo=microsoftoffice)
+
+
 
 

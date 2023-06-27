@@ -24,8 +24,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.089976151"
-     inkscape:cx="1944.9598"
-     inkscape:cy="-589.04498"
+     inkscape:cx="2056.1004"
+     inkscape:cy="611.27309"
      inkscape:window-width="1920"
      inkscape:window-height="986"
      inkscape:window-x="-11"
@@ -2580,39 +2580,32 @@
     <g
        id="g1194"
        transform="matrix(0.19586312,0,0,0.21144917,1347.8249,-327.7904)" />
-    <g
-       id="g9159"
-       transform="translate(20.79314,775.58412)">
-      <g
-         id="g9167">
-        <rect
-           style="fill:#87aade;stroke:#666666;stroke-width:0.0356748"
-           id="rect846"
-           width="1499.9604"
-           height="259.44196"
-           x="-621.5202"
-           y="-32.094196" />
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:52.9167px;line-height:1.25;font-family:'Courier New';-inkscape-font-specification:'Courier New, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.264583"
-           x="-5.3043661"
-           y="50.910084"
-           id="text35438"><tspan
-             sodipodi:role="line"
-             id="tspan36787"
-             x="-5.3043661"
-             y="50.910084">HI, I'M</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:70.5556px;line-height:1.25;font-family:'Courier New';-inkscape-font-specification:'Courier New, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.264583"
-           x="-109.50822"
-           y="151.91237"
-           id="text35438-5"><tspan
-             sodipodi:role="line"
-             id="tspan36834"
-             x="-109.50822"
-             y="151.91237">PAULINO RS</tspan></text>
-      </g>
-    </g>
+    <rect
+       style="fill:#000000;stroke:#666666;stroke-width:0.0356748"
+       id="rect846"
+       width="1499.96"
+       height="259.44196"
+       x="-600.72705"
+       y="743.48993" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:52.9167px;line-height:1.25;font-family:'Courier New';-inkscape-font-specification:'Courier New, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#999999;stroke-width:0.264583"
+       x="15.488774"
+       y="826.4942"
+       id="text35438"><tspan
+         sodipodi:role="line"
+         id="tspan36787"
+         x="15.488774"
+         y="826.4942">HI, I'M</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:70.5556px;line-height:1.25;font-family:'Courier New';-inkscape-font-specification:'Courier New, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#999999;stroke-width:0.264583"
+       x="-88.71508"
+       y="927.49646"
+       id="text35438-5"><tspan
+         sodipodi:role="line"
+         id="tspan36834"
+         x="-88.71508"
+         y="927.49646">PAULINO RS</tspan></text>
   </g>
 </svg>

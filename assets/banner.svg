@@ -2,13 +2,13 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="1499.9999mm"
-   height="317.68314mm"
-   viewBox="0 0 1499.9999 317.68314"
+   width="1499.9961mm"
+   height="259.47763mm"
+   viewBox="0 0 1499.9961 259.47763"
    version="1.1"
    id="svg5"
-   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
    sodipodi:docname="banner.svg"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -23,19 +23,19 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0"
-     inkscape:zoom="0.12724549"
-     inkscape:cx="2286.9179"
-     inkscape:cy="581.55302"
+     inkscape:zoom="0.063622746"
+     inkscape:cx="2844.8945"
+     inkscape:cy="-1948.9885"
      inkscape:window-width="1920"
      inkscape:window-height="986"
      inkscape:window-x="-11"
      inkscape:window-y="-11"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
   <defs
      id="defs2">
     <inkscape:path-effect
@@ -2423,7 +2423,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(524.58376,408.39965)">
+     transform="translate(600.7449,-743.47209)">
     <g
        id="g24872"
        transform="translate(1208.8489,-559.94159)" />
@@ -2582,16 +2582,16 @@
        transform="matrix(0.19586312,0,0,0.21144917,1347.8249,-327.7904)" />
     <g
        id="g9159"
-       transform="translate(96.956181,-318.084)">
+       transform="translate(20.79314,775.58412)">
       <g
          id="g9167">
         <rect
-           style="fill:#1a1a1a;stroke:#666666;stroke-width:0.039474"
+           style="fill:#1a1a1a;stroke:#666666;stroke-width:0.0356748"
            id="rect846"
            width="1499.9604"
-           height="317.64368"
+           height="259.44196"
            x="-621.5202"
-           y="-90.295914" />
+           y="-32.094196" />
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:52.9167px;line-height:1.25;font-family:'Courier New';-inkscape-font-specification:'Courier New, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#f9f9f9;stroke-width:0.264583"

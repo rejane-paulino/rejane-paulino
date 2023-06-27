@@ -1,9 +1,9 @@
-## Hi, I'm Paulino RS 👋 
+![Paulino's GitHub Banner](./assets/banner.svg)
 [![ReserchGate](https://img.shields.io/badge/ResearchGate-black?logo=researchgate)](https://www.researchgate.net/profile/Rejane-S-Paulino)
 [![GoogleScholar](https://img.shields.io/badge/GoogleScholar-black?logo=googlescholar)](https://scholar.google.com/citations?hl=en&user=2n9urE0AAAAJ)
 [![Gmail](https://img.shields.io/badge/Gmail-black?logo=gmail)](mailto:rejane.dspaulino@gmail.com)
 
-Hey there 👋 
+Hey there,
 
 I'm Paulino RS, a remote sensing scientist and Phd student in Biosystems Engineering. I make it my mission to evaluate and develop new approaches to water quality based on satellite data.
 

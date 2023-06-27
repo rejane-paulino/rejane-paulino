@@ -6,7 +6,7 @@
 
 Hey there 👋 
 
-I'm Paulino RS, a remote sensing scientist, Phd student in Biosystems Engineering and creative coder. I make it my mission to evaluate and develop new approaches to water quality based on satellite data.
+I'm Paulino RS, a remote sensing scientist and Phd student in Biosystems Engineering. I make it my mission to evaluate and develop new approaches to water quality based on satellite data.
 
 ### 📝 Research Interests
 

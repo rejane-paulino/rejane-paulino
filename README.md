@@ -1,7 +1,7 @@
 ![Paulino's GitHub Banner](./assets/banner.svg)
 ![Language](https://img.shields.io/badge/Python-black?logo=python)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?logo=linkedin)](https://www.linkedin.com/in/rejane-paulino-170659157/)
-[![Orcid](https://img.shields.io/badge/Orcid-black?logo=orcid)](https://orcid.org/my-orcid?orcid=0000-0002-7295-8942)
+[![ReserchGate](https://img.shields.io/badge/ResearchGate-black?logo=researchgate)](https://www.researchgate.net/profile/Rejane-S-Paulino)
+[![GoogleScholar](https://img.shields.io/badge/GoogleScholar-black?logo=googlescholar)](https://scholar.google.com/citations?hl=en&user=2n9urE0AAAAJ)
 [![Gmail](https://img.shields.io/badge/Gmail-black?logo=gmail)](mailto:rejane.dspaulino@gmail.com)
 
 Hey there 👋 

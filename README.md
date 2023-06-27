@@ -18,3 +18,4 @@ I'm Paulino RS, a remote sensing scientist, Phd student in Biosystems Engineerin
 
 ### 💼 Skills
 
+

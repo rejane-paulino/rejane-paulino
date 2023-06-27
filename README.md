@@ -1,5 +1,4 @@
 ![Paulino's GitHub Banner](./assets/banner.svg)
-![Language](https://img.shields.io/badge/Python-black?logo=python)
 [![ReserchGate](https://img.shields.io/badge/ResearchGate-black?logo=researchgate)](https://www.researchgate.net/profile/Rejane-S-Paulino)
 [![GoogleScholar](https://img.shields.io/badge/GoogleScholar-black?logo=googlescholar)](https://scholar.google.com/citations?hl=en&user=2n9urE0AAAAJ)
 [![Gmail](https://img.shields.io/badge/Gmail-black?logo=gmail)](mailto:rejane.dspaulino@gmail.com)

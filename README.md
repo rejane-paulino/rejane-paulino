@@ -5,15 +5,15 @@
 
 Hey there,
 
-I'm Paulino RS, a remote sensing scientist and Phd student in Biosystems Engineering. I make it my mission to evaluate and develop new approaches to water quality based on satellite data.
+I'm Paulino RS, a remote sensing scientist and Phd candidate in Biosystems Engineering. I make it my mission to evaluate and develop new approaches to aquatic systems based on satellite data.
 
 ### 📝 Research Interests
 
-* Remote Sensing of water quality;
+* Remote Sensing of aquatic systems;
 * Atmospheric and adjacency correction;
-* Hydological connectivity of floodplain lakes;
-* Spectral harmonization of satellite data; 
-* Machine learning.
+* Spectral harmonization of satellite data;
+* Radiative transfer and AI-based modelling;
+* Hydological connectivity of floodplain lakes.
 
 ### 💼 Skills
 ![Python](https://img.shields.io/badge/Tools-Python-black?logo=python)

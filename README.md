@@ -5,7 +5,7 @@
 
 Hey there,
 
-I'm Paulino RS, a remote sensing scientist and Phd candidate in Biosystems Engineering. I make it my mission to evaluate and develop new approaches to aquatic systems based on satellite data.
+I'm Jane, a remote sensing scientist and PhD candidate in Biosystems Engineering. I make it my mission to evaluate and develop new approaches to aquatic systems based on satellite data.
 
 ### 📝 Research Interests
 
